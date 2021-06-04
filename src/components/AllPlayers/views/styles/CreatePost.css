@@ -1,0 +1,16 @@
+.postForm{
+    text-align: center;
+    font-size: large;
+}
+
+.time{
+    color: red;
+}
+
+.tInput{
+    padding:20px 300px;
+}
+
+.pInput{
+    padding: 200px 300px;
+}

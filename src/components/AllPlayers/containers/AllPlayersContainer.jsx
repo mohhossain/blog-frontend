@@ -32,12 +32,6 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 
-// Type check props;
-// AllPlayersContainer.propTypes = {
-//   allPlayers: PropTypes.array.isRequired,
-//   fetchAllPlayers: PropTypes.func.isRequired,
-// };
-
 // Export our store-connected container by default;
 export default connect(
   mapStateToProps,
